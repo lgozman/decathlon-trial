@@ -1,5 +1,95 @@
 [
     {
+        "product_id": "7f08ce13-78c6-44c2-b09c-f0b91077fe61",
+        "gtin": "2060030730610",
+        "title": "VÉLO ROUTE REGULAR TRIBAN MICROSHIFT - VERT FEMME",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2481558/550x550/image.png"
+        ],
+        "price": "36000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo route",
+            "category": "cyclosport",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "MEDIUM"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "bleu"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "991a2e3f-6a16-4bc5-898e-22ccc97fa5a1",
+        "gtin": "2060030499319",
+        "title": "Vélo tout chemin électrique à moteur central et cadre haut,",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2734794/550x550/image.png"
+        ],
+        "price": "140000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout chemin",
+            "category": "vélo tout chemin randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "LARGE"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "7c7b6875-ecf4-48e5-9149-3e8eb41f41f1",
+        "gtin": "2060030196072",
+        "title": "VELO VILLE ELECTRIQUE A MOTEUR AUTOMATIQUE OWURU CADRE HAUT",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2540439/550x550/image.png"
+        ],
+        "price": "210000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo ville longue distance",
+            "category": "Vélo ville",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "LARGE"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
         "product_id": "df0c2895-7b66-4599-93e2-c8190c3e45fd",
         "gtin": "2060031746092",
         "title": "VÉLO TOUT TERRAIN 24\" EXPL 500 NOIR",
@@ -112,7 +202,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -232,7 +322,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 }
             ]
@@ -352,7 +442,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -502,7 +592,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -1342,7 +1432,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -1582,7 +1672,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -1612,7 +1702,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -1642,7 +1732,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "incolore"
                     ]
                 }
             ]
@@ -2362,7 +2452,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 }
             ]
@@ -2422,7 +2512,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 }
             ]
@@ -2542,7 +2632,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "blanc"
+                        "gris"
                     ]
                 }
             ]
