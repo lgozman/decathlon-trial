@@ -1,0 +1,542 @@
+[
+    {
+        "product_id": "7f08ce13-78c6-44c2-b09c-f0b91077fe61",
+        "gtin": "2060030730610",
+        "title": "VÉLO ROUTE REGULAR TRIBAN MICROSHIFT - VERT FEMME",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2481558/550x550/image.png"
+        ],
+        "price": "36000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo route",
+            "category": "cyclosport",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "MEDIUM"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "bleu"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "991a2e3f-6a16-4bc5-898e-22ccc97fa5a1",
+        "gtin": "2060030499319",
+        "title": "Vélo tout chemin électrique à moteur central et cadre haut,",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2734794/550x550/image.png"
+        ],
+        "price": "140000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout chemin",
+            "category": "vélo tout chemin randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "LARGE"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "7c7b6875-ecf4-48e5-9149-3e8eb41f41f1",
+        "gtin": "2060030196072",
+        "title": "VELO VILLE ELECTRIQUE A MOTEUR AUTOMATIQUE OWURU CADRE HAUT",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2540439/550x550/image.png"
+        ],
+        "price": "210000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo ville longue distance",
+            "category": "Vélo ville",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "LARGE"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "df0c2895-7b66-4599-93e2-c8190c3e45fd",
+        "gtin": "2060031746092",
+        "title": "VÉLO TOUT TERRAIN 24\" EXPL 500 NOIR",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2663699/550x550/image.png"
+        ],
+        "price": "22000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "vtt randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "24\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "noir"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "1f094985-3255-4332-9a4d-25246c6ff2f7",
+        "gtin": "2060030455117",
+        "title": "VÉLO VTT ST 120 NOIR BLEU 27,5\"",
+        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p1995217/550x550/image.png"
+        ],
+        "price": "28000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "vtt randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "L - 175-184 cm"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "noir"
+                    ]
+                }
+            ]
+        },
+        "condition": "new"
+    },
+    {
+        "product_id": "a7bab981-1531-47b1-b2c7-fea0f141e474",
+        "gtin": "2060030149573",
+        "title": "Vélo VTT Randonnée - EXPL 50 Gris foncé",
+        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2712064/550x550/image.png"
+        ],
+        "price": "24000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "vtt randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "M - 165-174 cm"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "gris"
+                    ]
+                }
+            ]
+        },
+        "condition": "new"
+    },
+    {
+        "product_id": "74ee2d0e-33c8-4a7b-8ce1-36a63601eade",
+        "gtin": "2060038161379",
+        "title": "Vélo route femme EDR EASY VAN RYSEL Blanc",
+        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2481549/550x550/image.png"
+        ],
+        "price": "38000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo route",
+            "category": "cyclotourisme",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "XS"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "incolore"
+                    ]
+                }
+            ]
+        },
+        "condition": "new"
+    },
+    {
+        "product_id": "1d57c8c4-e319-4db3-b0d5-7a5dd88a6c29",
+        "gtin": "2060030657863",
+        "title": "VTT enfant 26\" 9-12 ans, EXPL 500 violet",
+        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2868937/550x550/image.png"
+        ],
+        "price": "23000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "vtt randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "26\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "violet"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "cda9cc4e-1c15-410f-a795-0704f2311047",
+        "gtin": "2060035642741",
+        "title": "VTT ENFANT 20\" EXPL 900R ROUGE 6-9 ANS",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2663769/550x550/image.png"
+        ],
+        "price": "32000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "vtt randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "20\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "00b5b269-d267-4105-9b6d-4b8b45042b2a",
+        "gtin": "2060034738896",
+        "title": "VELO TOUT CHEMIN RIVERSIDE 500 ENJAMBEMENT BAS bleu tempête",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2388164/550x550/image.png"
+        ],
+        "price": "30000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout chemin",
+            "category": "vélo tout chemin randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "MEDIUM"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "bleu"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "e06a7541-63a2-4dfb-b97d-a2f90f70a7df",
+        "gtin": "2060035641744",
+        "title": "chaussure ski homme HEAD 27/27.5",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/o1880553/k$9c8ff588df379f41d89bc7486ec0412c/550x550/image.png"
+        ],
+        "price": "20000",
+        "stock": "1",
+        "specification": {
+            "product_type": "chaussures de ski",
+            "category": "Ski de piste",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Taille unique"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "noir"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "20ad269e-994a-4e71-96c2-d71966b4e67e",
+        "gtin": "2060034687224",
+        "title": "Vélo vtt randonnée - expl 50 rouge",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2722609/550x550/image.png"
+        ],
+        "price": "25000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "vtt randonnée",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "S - 150-164 cm"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "b9659bb4-3b9f-4a3d-8e58-724d403c78c4",
+        "gtin": "2060030760174",
+        "title": "Sac à dos de trekking ultra léger 50L, MT900 UL",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2838443/550x550/image.png"
+        ],
+        "price": "22000",
+        "stock": "1",
+        "specification": {
+            "product_type": "sac à dos",
+            "category": "Randonnée montagne",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "gris"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "bd336781-c196-4258-93ae-67a5393436fe",
+        "gtin": "2060030752957",
+        "title": "Léopard",
+        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/o1878809/k$d6131f245a1a04a92b7277c4648c9c97/550x550/image.png"
+        ],
+        "price": "20000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo pour enfants",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Taille unique"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "ocre"
+                    ]
+                }
+            ]
+        },
+        "condition": "new"
+    },
+    {
+        "product_id": "c756d979-c02b-46c3-b62d-089b79f36c22",
+        "gtin": "2060030723612",
+        "title": "Vélo route femme EDR EASY VAN RYSEL Blanc",
+        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2481549/550x550/image.png"
+        ],
+        "price": "32000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo route",
+            "category": "cyclotourisme",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "SMALL"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "incolore"
+                    ]
+                }
+            ]
+        },
+        "condition": "new"
+    },
+    {
+        "product_id": "78ead487-c03d-411f-af91-d82a116da7bb",
+        "gtin": "2060030405204",
+        "title": "Vélo gravel SRAM Apex 1x12v, GRVL AF Beige",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2833332/550x550/image.png"
+        ],
+        "price": "88000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo gravel",
+            "category": "gravel",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "SMALL"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "beige"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "7e8f0c97-2c97-4877-8d3f-a2f372b12726",
+        "gtin": "2060037886396",
+        "title": "No disponible",
+        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2691497/550x550/image.png"
+        ],
+        "price": "22000",
+        "stock": "1",
+        "specification": {
+            "product_type": "chaussures de ski",
+            "category": "Ski de piste",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "31 - 31,5 cm"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "new"
+    },
+    {
+        "product_id": "0e354ff0-43c9-4767-9f61-b7ef0513261a",
+        "gtin": "2060031338525",
+        "title": "VELO PLIANT TILT 500 BLANC",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2616277/550x550/image.png"
+        ],
+        "price": "27000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo pliant",
+            "category": "vélo intermodal",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "UNIQUE"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "blanc"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    }
+]
