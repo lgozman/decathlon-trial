@@ -1,5 +1,425 @@
 [
     {
+        "product_id": "3f902644-fb99-44c3-bbd6-49e732744840",
+        "gtin": "2060038145409",
+        "title": "VTT ENFANT ROCKRIDER ST 120 20 POUCES 6-9 ans BLANC BLEU",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p1690024/550x550/image.png"
+        ],
+        "price": "10000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "20\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "blanc"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "a00e3b85-3fbe-4dcb-9ee3-76e474973e70",
+        "gtin": "2060031099846",
+        "title": "VTT ENFANT 20\" EXPL 120 BLANC 6-9 ANS",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2581766/550x550/image.png"
+        ],
+        "price": "19000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "20\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "aa3fcdb9-8e0f-4d15-9443-31b755f58398",
+        "gtin": "2060035921433",
+        "title": "Vélo enfant 16 pouces 4-6 ans, DISCOVER 500 rose",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2879523/550x550/image.png"
+        ],
+        "price": "13000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "rose"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "d1d8f6f3-606a-4eae-aa50-4ccae41b24d2",
+        "gtin": "2060036606384",
+        "title": "Draisienne enfant 10 pouces runride 500 rose/beige",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2094718/550x550/image.png"
+        ],
+        "price": "6000",
+        "stock": "1",
+        "specification": {
+            "product_type": "draisienne",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "10\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "marron"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "a1abf69a-5579-4968-8fa0-5e133bb5bb41",
+        "gtin": "2060030613227",
+        "title": "Chaussures de running Femme KIPRUN KS900.2 - Noir Rose",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2819699/550x550/image.png"
+        ],
+        "price": "7000",
+        "stock": "1",
+        "specification": {
+            "product_type": "chaussures",
+            "category": "Fitness",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "42 (9)"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "blanc"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "f6a07d9b-c657-497b-af09-29dc72bfec94",
+        "gtin": "2060035876375",
+        "title": "VELO ENFANT 2EN1 DRAISIENNE 3-5 ANS 14 pouces - DISCOVER",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2594827/550x550/image.png"
+        ],
+        "price": "18000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "14\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "ocre"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "ec8786e1-ac55-4830-a152-66bea1ce9361",
+        "gtin": "2060030263491",
+        "title": "Vélo enfant 16 pouces 4-6 ans, DISCOVER 500 rouge",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2879651/550x550/image.png"
+        ],
+        "price": "16000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "rouge"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "2445f33e-d906-4b41-bac5-50b01ae500da",
+        "gtin": "2060037119746",
+        "title": "VELO ENFANT 2EN1 DRAISIENNE 3-5 ANS 14 pouces - DISCOVER",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2663476/550x550/image.png"
+        ],
+        "price": "15000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "14\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "rose"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "a1424042-0d2e-49d4-bd48-04a7a0765fa4",
+        "gtin": "2060030412707",
+        "title": "VELO ENFANT 2EN1 DRAISIENNE 3-5 ANS 14 pouces - DISCOVER",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2663559/550x550/image.png"
+        ],
+        "price": "15000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "14\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "rouge"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "df1920c4-df70-428e-afb5-a7d1331ca84b",
+        "gtin": "2060039570378",
+        "title": "PORTEUR EVOLUTIF DRAISIENNE 2EN1 - BLANC/ORANGE",
+        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2262666/550x550/image.png"
+        ],
+        "price": "4000",
+        "stock": "1",
+        "specification": {
+            "product_type": "porteur",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "d4d8aeed-bcf7-4edd-97ab-caba84886ccd",
+        "gtin": "2060035639512",
+        "title": "Vtt enfant 26\" st 500 bleu 9-12 ans",
+        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2347668/550x550/image.png"
+        ],
+        "price": "12000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "26\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "bleu"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "d573bcee-6017-43ee-b9b5-cf0947574918",
+        "gtin": "2060038348886",
+        "title": "robot 500",
+        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/o1915563/k$0cd8fbcdc886a8711f5c0dfff8990261/550x550/image.png"
+        ],
+        "price": "10000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Taille unique"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "7013707f-577a-4e7c-a2af-0a427805db78",
+        "gtin": "2060030545443",
+        "title": "Trottinette enfant - Mini Micro Delux Pliable Led Bleu",
+        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2707171/550x550/image.png"
+        ],
+        "price": "6000",
+        "stock": "1",
+        "specification": {
+            "product_type": "trottinette",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "2074aa78-bb21-42f1-9c06-644f1dfca55f",
+        "gtin": "2060037075691",
+        "title": "Montre connectée - Polar Pacer Pro Blanc/Rouge",
+        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+        "images": [
+            "https://contents.mediadecathlon.com/p2797755/550x550/image.png"
+        ],
+        "price": "17000",
+        "stock": "1",
+        "specification": {
+            "product_type": "montre",
+            "category": "Fitness",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
         "product_id": "b20ebdce-df8b-4187-89b0-fae857a97fb4",
         "gtin": "2060030169526",
         "title": "Chemise imperméable extérieur Cheval et Poney - ALLWEATHER",
@@ -161,7 +581,7 @@
         "stock": "1",
         "specification": {
             "product_type": "oreiller",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -191,7 +611,7 @@
         "stock": "1",
         "specification": {
             "product_type": "matelas",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -221,7 +641,7 @@
         "stock": "1",
         "specification": {
             "product_type": "montre",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -251,7 +671,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac à dos",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -270,36 +690,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "b83c4b8c-9775-4eb3-ad9a-f37bb26b3ef7",
-        "gtin": "2060038354993",
-        "title": "VTT ENFANT ROCKRIDER ST 500 24 POUCES 9-12 ans Jaune Fluo",
-        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p1732642/550x550/image.png"
-        ],
-        "price": "17000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "24\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "jaune"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
-    },
-    {
         "product_id": "a1b14a33-d17e-471d-bf08-2289960101b1",
         "gtin": "2060038028269",
         "title": "Sac de couchage de trekking 10°C jumelable et compact,",
@@ -311,7 +701,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac de couchage",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -401,7 +791,7 @@
         "stock": "1",
         "specification": {
             "product_type": "garde-boue",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -491,7 +881,7 @@
         "stock": "1",
         "specification": {
             "product_type": "parka",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -521,7 +911,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac à eau",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -551,7 +941,7 @@
         "stock": "1",
         "specification": {
             "product_type": "collant de running",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -581,7 +971,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -611,7 +1001,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo elliptique",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -641,7 +1031,7 @@
         "stock": "1",
         "specification": {
             "product_type": "lunettes de soleil",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -697,7 +1087,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2581783/550x550/image.png"
         ],
-        "price": "20000",
+        "price": "19000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout terrain",
@@ -731,7 +1121,7 @@
         "stock": "1",
         "specification": {
             "product_type": "maillot manches courtes",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -761,7 +1151,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -821,7 +1211,7 @@
         "stock": "1",
         "specification": {
             "product_type": "combinaison de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -851,7 +1241,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -881,7 +1271,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo enfant",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -911,7 +1301,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo enfant",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -967,7 +1357,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2519724/550x550/image.png"
         ],
-        "price": "20000",
+        "price": "19000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout terrain",
@@ -997,7 +1387,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2519724/550x550/image.png"
         ],
-        "price": "20000",
+        "price": "19000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout terrain",
@@ -1031,7 +1421,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo enfant",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1066,7 +1456,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "M"
+                        "65 to 69 cm"
                     ]
                 },
                 {
@@ -1087,7 +1477,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2561262/550x550/image.png"
         ],
-        "price": "170000",
+        "price": "144000",
         "stock": "1",
         "specification": {
             "product_type": "vélo route",
@@ -1121,7 +1511,7 @@
         "stock": "1",
         "specification": {
             "product_type": "polaire",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1211,7 +1601,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures d'alpinisme",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1241,7 +1631,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo d'appartement",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1271,7 +1661,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1301,7 +1691,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1331,7 +1721,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1361,7 +1751,7 @@
         "stock": "1",
         "specification": {
             "product_type": "snowboard",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1391,7 +1781,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1421,7 +1811,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1451,7 +1841,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1481,7 +1871,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1511,7 +1901,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1631,7 +2021,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1661,7 +2051,7 @@
         "stock": "1",
         "specification": {
             "product_type": "legging",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1691,7 +2081,7 @@
         "stock": "1",
         "specification": {
             "product_type": "t-shirt manches courtes",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1721,7 +2111,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1747,7 +2137,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2131458/550x550/image.png"
         ],
-        "price": "30000",
+        "price": "29000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout chemin",
@@ -1871,7 +2261,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1901,7 +2291,7 @@
         "stock": "1",
         "specification": {
             "product_type": "doudoune duvet",
-            "category": "Roller",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -1961,7 +2351,7 @@
         "stock": "1",
         "specification": {
             "product_type": "veste",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2081,7 +2471,7 @@
         "stock": "1",
         "specification": {
             "product_type": "rameur",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2111,7 +2501,7 @@
         "stock": "1",
         "specification": {
             "product_type": "tapis de marche",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2141,7 +2531,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo d'appartement",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2227,7 +2617,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2481549/550x550/image.png"
         ],
-        "price": "43000",
+        "price": "36000",
         "stock": "1",
         "specification": {
             "product_type": "vélo route",
@@ -2266,7 +2656,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "S"
+                        "60 to 65 cm"
                     ]
                 },
                 {
@@ -2287,7 +2677,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2388164/550x550/image.png"
         ],
-        "price": "33000",
+        "price": "29000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout chemin",
@@ -2321,7 +2711,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo enfant",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2381,7 +2771,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo enfant",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2407,7 +2797,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2792894/550x550/image.png"
         ],
-        "price": "40000",
+        "price": "37000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout terrain",
@@ -2441,7 +2831,7 @@
         "stock": "1",
         "specification": {
             "product_type": "veste",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2490,66 +2880,6 @@
         "condition": "damaged"
     },
     {
-        "product_id": "edb9d692-29b0-4dfe-b76a-54c126c4a052",
-        "gtin": "2060039500108",
-        "title": "Chaussures femme Salomon divine 24.5",
-        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/o1894480/k$aceaf5b5487a15ed686339c8f1345023/550x550/image.png"
-        ],
-        "price": "5000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Ski",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Taille unique"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "blanc"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
-    },
-    {
-        "product_id": "aba6e22e-cd62-44bb-a457-0880bc484624",
-        "gtin": "2060039800888",
-        "title": "K2 179cm freeride MINDBEMDER",
-        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/o1892174/k$e512de51f15bd25602a8f3c92317cccf/550x550/image.png"
-        ],
-        "price": "40000",
-        "stock": "1",
-        "specification": {
-            "product_type": "skis",
-            "category": "Ski",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Taille unique"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "violet"
-                    ]
-                }
-            ]
-        },
-        "condition": "new"
-    },
-    {
         "product_id": "7768d5a5-70bd-4c13-b0ae-72f21dd69ce2",
         "gtin": "2060030789625",
         "title": "Chaussures de randonnée montagne imperméables, homme MH100",
@@ -2561,7 +2891,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2591,7 +2921,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2621,7 +2951,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2651,7 +2981,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2681,7 +3011,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2711,7 +3041,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2741,7 +3071,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2771,7 +3101,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2801,7 +3131,7 @@
         "stock": "1",
         "specification": {
             "product_type": "snowboard",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2831,7 +3161,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2861,7 +3191,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon modulable",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2891,7 +3221,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -2921,7 +3251,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3011,7 +3341,7 @@
         "stock": "1",
         "specification": {
             "product_type": "montre",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3041,7 +3371,7 @@
         "stock": "1",
         "specification": {
             "product_type": "montre",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3071,7 +3401,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3131,7 +3461,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bottes de neige",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3161,7 +3491,7 @@
         "stock": "1",
         "specification": {
             "product_type": "tapis de marche",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3191,7 +3521,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3221,7 +3551,7 @@
         "stock": "1",
         "specification": {
             "product_type": "lampe frontale",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3293,36 +3623,6 @@
                     "name": "COLOR",
                     "value": [
                         "No Color"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
-    },
-    {
-        "product_id": "c67e4800-d4d0-47d5-be5f-ea15130cbf01",
-        "gtin": "2060031704085",
-        "title": "VTT ENFANT 20\" EXPL 120 BLANC 6-9 ANS",
-        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p2581766/550x550/image.png"
-        ],
-        "price": "16000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "20\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "orange"
                     ]
                 }
             ]
@@ -3431,7 +3731,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3466,7 +3766,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "L"
+                        "69 to 72 cm"
                     ]
                 },
                 {
@@ -3496,7 +3796,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "M"
+                        "65 to 69 cm"
                     ]
                 },
                 {
@@ -3551,7 +3851,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3611,7 +3911,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3641,7 +3941,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3671,7 +3971,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3701,7 +4001,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3731,7 +4031,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3761,7 +4061,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3791,7 +4091,7 @@
         "stock": "1",
         "specification": {
             "product_type": "tente",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3821,7 +4121,7 @@
         "stock": "1",
         "specification": {
             "product_type": "montre",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3851,7 +4151,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pompe à pied",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3881,7 +4181,7 @@
         "stock": "1",
         "specification": {
             "product_type": "doudoune duvet",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3911,7 +4211,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac à dos",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3971,7 +4271,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -3988,36 +4288,6 @@
             ]
         },
         "condition": "damaged"
-    },
-    {
-        "product_id": "d6825a91-d3a3-48e0-ae88-82089e30a45d",
-        "gtin": "2060034020403",
-        "title": "Chausson d'escalade - Klimb gris comète",
-        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p2613846/550x550/image.png"
-        ],
-        "price": "6000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chausson d'escalade",
-            "category": "Sports de montange",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "45"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
     },
     {
         "product_id": "c756d979-c02b-46c3-b62d-089b79f36c22",
@@ -4091,7 +4361,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures snowboard",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4110,36 +4380,6 @@
         "condition": "new"
     },
     {
-        "product_id": "67fde893-a738-4531-8c95-3a4358274a10",
-        "gtin": "2060034552294",
-        "title": "chaussure ski piste dalbello 26 grise et violette ",
-        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/o1875277/k$e5f3780fb1def16374b6145cb3f02d71/550x550/image.png"
-        ],
-        "price": "2000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Ski",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Taille unique"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "1228a010-7921-4664-8e59-3a5327924324",
         "gtin": "2060037661535",
         "title": "lange delight",
@@ -4151,7 +4391,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4181,7 +4421,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4211,7 +4451,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4241,7 +4481,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Roller",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4271,7 +4511,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4301,7 +4541,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Roller",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4331,7 +4571,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4361,7 +4601,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4391,7 +4631,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4421,7 +4661,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4451,42 +4691,12 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
                     "value": [
                         "24"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "No Color"
-                    ]
-                }
-            ]
-        },
-        "condition": "new"
-    },
-    {
-        "product_id": "d5f2ec17-cd52-4e80-a182-5b29ee8034fe",
-        "gtin": "2060030441332",
-        "title": "CHAUSSURES DE SKI FEMME - HEAD EDGE LYT 90 NOIRES GW",
-        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p2264212/550x550/image.png"
-        ],
-        "price": "20000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Ski",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "27"
                     ]
                 },
                 {
@@ -4511,7 +4721,7 @@
         "stock": "1",
         "specification": {
             "product_type": "quart",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4541,7 +4751,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4571,7 +4781,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4661,7 +4871,7 @@
         "stock": "1",
         "specification": {
             "product_type": "t-shirt manches courtes",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4691,7 +4901,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4751,7 +4961,7 @@
         "stock": "1",
         "specification": {
             "product_type": "short",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4781,7 +4991,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4811,7 +5021,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4841,7 +5051,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac à dos",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4961,7 +5171,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -4991,7 +5201,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chausson d'escalade",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5021,7 +5231,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5051,7 +5261,7 @@
         "stock": "1",
         "specification": {
             "product_type": "veste",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5116,7 +5326,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "S"
+                        "60 to 65 cm"
                     ]
                 },
                 {
@@ -5171,7 +5381,7 @@
         "stock": "1",
         "specification": {
             "product_type": "douche",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5231,7 +5441,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo tout chemin",
-            "category": "Vélo",
+            "category": "Vélo enfant",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5261,7 +5471,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac de couchage",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5291,7 +5501,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5321,7 +5531,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5411,7 +5621,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5441,7 +5651,7 @@
         "stock": "1",
         "specification": {
             "product_type": "capuchon de protection",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5591,7 +5801,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5640,36 +5850,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "a2b39d24-5e09-4882-91bd-84e86fb03d32",
-        "gtin": "2060031018281",
-        "title": "Chaussures de trail running GoreTex Homme, Salomon",
-        "description": "EXCELLENT ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Pas ou très peu de traces d'usare, le produit est comme neuf. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p2974973/550x550/image.png"
-        ],
-        "price": "7000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures",
-            "category": "Running",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "42"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                }
-            ]
-        },
-        "condition": "new"
-    },
-    {
         "product_id": "f014adb2-062c-408d-b77d-186e2b9c6b46",
         "gtin": "2060035867779",
         "title": "Sac à dos pliable et imperméable 20l - travel",
@@ -5681,7 +5861,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sac à dos",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5711,7 +5891,7 @@
         "stock": "1",
         "specification": {
             "product_type": "longe de via ferrata",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5741,7 +5921,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5771,7 +5951,7 @@
         "stock": "1",
         "specification": {
             "product_type": "corsaire",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5831,7 +6011,7 @@
         "stock": "1",
         "specification": {
             "product_type": "tente de toit",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -5891,7 +6071,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6041,7 +6221,7 @@
         "stock": "1",
         "specification": {
             "product_type": "rameur",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6281,7 +6461,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6311,7 +6491,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6371,7 +6551,7 @@
         "stock": "1",
         "specification": {
             "product_type": "couteau multifonction",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6521,7 +6701,7 @@
         "stock": "1",
         "specification": {
             "product_type": "matelas",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6581,7 +6761,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sandales",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6671,7 +6851,7 @@
         "stock": "1",
         "specification": {
             "product_type": "moniteur d'activité",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6701,7 +6881,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6731,7 +6911,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussettes",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6750,36 +6930,6 @@
         "condition": "new"
     },
     {
-        "product_id": "4f3aa53b-212c-48df-a7fa-934dc39ac123",
-        "gtin": "2060035638775",
-        "title": "Chaussures de randonnée chaudes et imperméables homme,",
-        "description": "ÉTAT CORRECT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit présente des traces d’usure importantes. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p2508431/550x550/image.png"
-        ],
-        "price": "5000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures",
-            "category": "Sports de montange",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "44"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "rouge"
-                    ]
-                }
-            ]
-        },
-        "condition": "damaged"
-    },
-    {
         "product_id": "e5a74708-302f-46d2-aa3d-ffc69e2d3c29",
         "gtin": "2060037092858",
         "title": "CHAUSSONS D'ESCALADE - EDGE SOFT  BLANC/ NOIR",
@@ -6791,7 +6941,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chausson d'escalade",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6851,7 +7001,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6881,7 +7031,7 @@
         "stock": "1",
         "specification": {
             "product_type": "couvert",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6911,7 +7061,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6941,7 +7091,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bas de maillot de bain (bikini)",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -6971,7 +7121,7 @@
         "stock": "1",
         "specification": {
             "product_type": "haut de maillot de bain (bikini)",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7001,7 +7151,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7061,7 +7211,7 @@
         "stock": "1",
         "specification": {
             "product_type": "tente",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7181,7 +7331,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7246,7 +7396,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "M"
+                        "65 to 69 cm"
                     ]
                 },
                 {
@@ -7361,7 +7511,7 @@
         "stock": "1",
         "specification": {
             "product_type": "couvert",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7541,7 +7691,7 @@
         "stock": "1",
         "specification": {
             "product_type": "protège-tibia",
-            "category": "Sports collectifs",
+            "category": "sports collectifs",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7691,7 +7841,7 @@
         "stock": "1",
         "specification": {
             "product_type": "matelas",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7751,7 +7901,7 @@
         "stock": "1",
         "specification": {
             "product_type": "glacière",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7841,7 +7991,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7871,7 +8021,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7901,7 +8051,7 @@
         "stock": "1",
         "specification": {
             "product_type": "corde à sauter",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7931,7 +8081,7 @@
         "stock": "1",
         "specification": {
             "product_type": "corde à sauter",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -7991,7 +8141,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8171,7 +8321,7 @@
         "stock": "1",
         "specification": {
             "product_type": "abris",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8231,7 +8381,7 @@
         "stock": "1",
         "specification": {
             "product_type": "porte bébé",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8266,7 +8416,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "L"
+                        "69 to 72 cm"
                     ]
                 },
                 {
@@ -8471,7 +8621,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sandales",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8501,7 +8651,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8531,7 +8681,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8561,7 +8711,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8621,7 +8771,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8771,7 +8921,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8801,7 +8951,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8831,7 +8981,7 @@
         "stock": "1",
         "specification": {
             "product_type": "veste",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8861,7 +9011,7 @@
         "stock": "1",
         "specification": {
             "product_type": "masque de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8891,7 +9041,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8921,7 +9071,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8951,7 +9101,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Other Sports",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -8981,7 +9131,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Other Sports",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9011,7 +9161,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9041,7 +9191,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9101,7 +9251,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9161,7 +9311,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9191,7 +9341,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9221,7 +9371,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9341,7 +9491,7 @@
         "stock": "1",
         "specification": {
             "product_type": "moniteur d'activité",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9371,7 +9521,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9461,7 +9611,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9690,36 +9840,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "7792d876-6cd2-4671-9c05-5fa81bc9e67b",
-        "gtin": "2060037960256",
-        "title": "Chaussures de Running Femme, Kiprun KD900.2 Blanche Jaune",
-        "description": "BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/p2819575/550x550/image.png"
-        ],
-        "price": "8000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures",
-            "category": "Ftiness",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "39 (6)"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "violet"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "7afd8561-c632-4f4d-9165-1a12cffe16a4",
         "gtin": "2060035661483",
         "title": "Chaussettes de compression noires",
@@ -9791,7 +9911,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9821,7 +9941,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9911,7 +10031,7 @@
         "stock": "1",
         "specification": {
             "product_type": "vélo de biking",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -9941,7 +10061,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10091,7 +10211,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10121,7 +10241,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10181,7 +10301,7 @@
         "stock": "1",
         "specification": {
             "product_type": "raquette à neige",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10211,7 +10331,7 @@
         "stock": "1",
         "specification": {
             "product_type": "raquette à neige",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10241,7 +10361,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10260,36 +10380,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "5c6cbfe4-adb6-4ebf-b831-d701a5a9ca82",
-        "gtin": "2060035673509",
-        "title": "ski Wedze junior 130",
-        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/o1402853/k$99d68be8320e371ddc55b26287dc335d/550x550/image.png"
-        ],
-        "price": "8000",
-        "stock": "1",
-        "specification": {
-            "product_type": "skis",
-            "category": "Ski",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Taille unique"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "rouge"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
-    },
-    {
         "product_id": "857cb618-3be3-492c-b28f-912d0172efc6",
         "gtin": "2060035456669",
         "title": "head icon TT 800 2012 t164",
@@ -10301,7 +10391,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10361,7 +10451,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Ftiness",
+            "category": "Fitness",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10421,7 +10511,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de football",
-            "category": "Sports collectifs",
+            "category": "sports collectifs",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10481,7 +10571,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10511,7 +10601,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10541,7 +10631,7 @@
         "stock": "1",
         "specification": {
             "product_type": "tongs",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10571,7 +10661,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10631,7 +10721,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures d'alpinisme",
-            "category": "Roller",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10666,7 +10756,7 @@
                 {
                     "name": "SIZE",
                     "value": [
-                        "M"
+                        "65 to 69 cm"
                     ]
                 },
                 {
@@ -10691,7 +10781,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10721,7 +10811,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10751,7 +10841,7 @@
         "stock": "1",
         "specification": {
             "product_type": "casque",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10781,7 +10871,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Other Sports",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10811,7 +10901,7 @@
         "stock": "1",
         "specification": {
             "product_type": "gants",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10841,7 +10931,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10871,7 +10961,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon",
-            "category": "Other Sports",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10901,7 +10991,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussettes",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10931,7 +11021,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Roller",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -10961,7 +11051,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11021,7 +11111,7 @@
         "stock": "1",
         "specification": {
             "product_type": "skis",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11051,7 +11141,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11081,7 +11171,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11111,7 +11201,7 @@
         "stock": "1",
         "specification": {
             "product_type": "semelles",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11141,7 +11231,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11171,7 +11261,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11220,36 +11310,6 @@
         "condition": "new"
     },
     {
-        "product_id": "ed5753bc-0ea7-40ef-8c3d-f5659f53eb2f",
-        "gtin": "2060035686097",
-        "title": "bottes de ski",
-        "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
-        "images": [
-            "https://contents.mediadecathlon.com/o1226915/k$585276091b5aa2c3cec0ae3bdd13c4cf/550x550/image.png"
-        ],
-        "price": "10000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Ski",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Taille unique"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "noir"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
-    },
-    {
         "product_id": "2ffd2165-cf96-4443-bee1-11c2731e3c65",
         "gtin": "2060030396632",
         "title": "SOUS-VÊTEMENT DE SKI DE FOND THERMIQUE 900 FEMME - BLEU",
@@ -11261,7 +11321,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sous vêtement haut",
-            "category": "Other Sports",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11291,7 +11351,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11351,7 +11411,7 @@
         "stock": "1",
         "specification": {
             "product_type": "sous vêtement haut",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11381,7 +11441,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bottes de neige",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11411,7 +11471,7 @@
         "stock": "1",
         "specification": {
             "product_type": "pantalon",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11471,7 +11531,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11801,7 +11861,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de football",
-            "category": "Sports collectifs",
+            "category": "sports collectifs",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11831,7 +11891,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures",
-            "category": "Sports de montange",
+            "category": "Sports de montagne",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11951,7 +12011,7 @@
         "stock": "1",
         "specification": {
             "product_type": "bâton de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -11981,7 +12041,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -12041,7 +12101,7 @@
         "stock": "1",
         "specification": {
             "product_type": "écran masque de ski",
-            "category": "Roller",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
@@ -12071,7 +12131,7 @@
         "stock": "1",
         "specification": {
             "product_type": "chaussures de ski",
-            "category": "Ski",
+            "category": "Sports d'hiver",
             "attributes": [
                 {
                     "name": "SIZE",
