@@ -1,5 +1,737 @@
 [
     {
+        "product_id": "718f7a0b-f3e0-4d46-98d2-60f96b7c502a",
+        "gtin": "2060030486524",
+        "title": "Vélo Ville Electirque Moteur Central - Stilus City Bleu",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2693602/550x550/image.png"
+        ],
+        "price": "260000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo ville",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "MEDIUM"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "bleu"
+                    ]
+                },
+                {
+                    "name": "bicycle_frame_size",
+                    "value": [
+                        "49"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "28"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "08579f93-f6b4-41c2-8827-365258001f70",
+        "gtin": "2060035723754",
+        "title": "VTT ENFANT 24\" ST 920 VERT 9-12 ANS",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2438082/550x550/image.png"
+        ],
+        "price": "40000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "24\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "jaune"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "26"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "868a3504-9189-479e-9f03-ce93f0240058",
+        "gtin": "2060031280114",
+        "title": "Rameur domyos woodrower 3 en 1, pliant, auto-alimenté,",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2500724/550x550/image.png"
+        ],
+        "price": "79000",
+        "stock": "1",
+        "specification": {
+            "product_type": "rameur",
+            "category": "Fitness",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "875d8551-128b-42e9-8724-236acf497c49",
+        "gtin": "2060032189515",
+        "title": "VELO 16 POUCES 4-6 ANS 500 DARK HERO",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p1178866/550x550/image.png"
+        ],
+        "price": "16000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "jaune"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "14"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "ebd7a7a2-2a99-44ba-8051-d2c88758124e",
+        "gtin": "2060039738563",
+        "title": "VTT enfant 26\" 9-12 ans, EXPL 500 orange",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2868894/550x550/image.png"
+        ],
+        "price": "28000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "26\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                },
+                {
+                    "name": "bicycle_frame_size",
+                    "value": [
+                        "45"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "26"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "9bc39656-7575-4ba6-b427-478df04c63a1",
+        "gtin": "2060030812132",
+        "title": "VTC ENFANT RIVERSIDE 900 20 POUCES 6-9 ANS",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2089310/550x550/image.png"
+        ],
+        "price": "26000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout chemin",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "20\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "ocre"
+                    ]
+                },
+                {
+                    "name": "bicycle_frame_size",
+                    "value": [
+                        "50"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "26"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "d740e1d5-264f-41ff-819f-837bf71e127c",
+        "gtin": "2060033943024",
+        "title": "Chaussons gym fille et garçon en mesh noir",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2412644/550x550/image.png"
+        ],
+        "price": "2000",
+        "stock": "1",
+        "specification": {
+            "product_type": "chaussons",
+            "category": "Fitness",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "35"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "noir"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "ca38b7d2-9cba-4d58-8b42-dffc4d43214f",
+        "gtin": "2060038066797",
+        "title": "VTT enfant 26\" 9-12 ans, EXPL 500 orange",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2868894/550x550/image.png"
+        ],
+        "price": "28000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "26\""
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                },
+                {
+                    "name": "bicycle_frame_size",
+                    "value": [
+                        "45"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "26"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "4fcf219e-2d91-4afa-909b-a51a9365ea2d",
+        "gtin": "2060030809804",
+        "title": "CHAUSSONS D'ESCALADE FEMME - TARANTULA LA SPORTIVA TURQUOISE",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2227287/550x550/image.png"
+        ],
+        "price": "9000",
+        "stock": "1",
+        "specification": {
+            "product_type": "chausson d'escalade",
+            "category": "Other Sports",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "40"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "71702d8b-2df0-46e6-b3ca-2b948d165423",
+        "gtin": "2060035909301",
+        "title": "Vélo de biking d'entraînement 500",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2539133/550x550/image.png"
+        ],
+        "price": "37000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo de biking",
+            "category": "Other Sports",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Sans taille"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "62c4dead-0b32-450a-83dc-80a909aa0c84",
+        "gtin": "2060036010723",
+        "title": "unicorn",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1946679/k$9376d5e1fcf1185660b125478eda4afd/550x550/image.png"
+        ],
+        "price": "8000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Not Found"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "rose"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "14"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "6a84c447-bc61-4fe2-8cb6-fedd7e24c46e",
+        "gtin": "2060035372976",
+        "title": "Vélo vtt randonnée - expl 50 gris foncé",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2712064/550x550/image.png"
+        ],
+        "price": "21000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "XL"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "gris"
+                    ]
+                },
+                {
+                    "name": "bicycle_frame_size",
+                    "value": [
+                        "53"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "26"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "8c341e63-f08d-4a21-afb0-b7c6bcfbb33e",
+        "gtin": "2060035908571",
+        "title": "Chaussures chaudes et imperméables de randonnée SH500 cuir",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2042606/550x550/image.png"
+        ],
+        "price": "4000",
+        "stock": "1",
+        "specification": {
+            "product_type": "chaussures",
+            "category": "Sports de montagne",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "35"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "gris"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "0"
+                    ]
+                }
+            ]
+        },
+        "condition": "like_new"
+    },
+    {
+        "product_id": "c187abc6-7d4d-495e-a72f-5e5238b8358b",
+        "gtin": "2060030832666",
+        "title": "Unicorn",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1946008/k$cd9fbca62f4d6aa527b2836b9ce848a2/550x550/image.png"
+        ],
+        "price": "8000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo enfant",
+            "category": "Vélo enfant",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Not Found"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "rose"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "14"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "8026239a-b987-4502-ac0f-fab2bd6ad2af",
+        "gtin": "2060036371534",
+        "title": "pantalon ski femme taille FR 40",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1874649/k$2d8d0b1ebb75b41fb452000805998459/550x550/image.png"
+        ],
+        "price": "6000",
+        "stock": "1",
+        "specification": {
+            "product_type": "pantalon de ski",
+            "category": "Sports d'hiver",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Not Found"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "noir"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "fd38b9c9-3654-4cd0-9ddd-e7e0bfffed51",
+        "gtin": "2060037788768",
+        "title": "Ski Atomix 97 cm",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1901922/k$ac345327b3a61354cdcd2481f520c9aa/550x550/image.png"
+        ],
+        "price": "13000",
+        "stock": "1",
+        "specification": {
+            "product_type": "skis",
+            "category": "Other Sports",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "10 Ans"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "noir"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "9ac07310-848a-4ba2-9a22-94f9499f5af6",
+        "gtin": "2060030044052",
+        "title": "ski de piste femme K2 156cm",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1880196/k$e0717dbf789f9bdaec95d6d58886953f/550x550/image.png"
+        ],
+        "price": "40000",
+        "stock": "1",
+        "specification": {
+            "product_type": "skis",
+            "category": "Sports d'hiver",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "156"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "jaune"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "c7406bb3-698d-4bd5-847c-11c9bd1194c3",
+        "gtin": "2060038138579",
+        "title": "Vélo VTT électrique tout suspendu 29\" - E-EXPL 520 S Rouge",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2486983/550x550/image.png"
+        ],
+        "price": "270000",
+        "stock": "1",
+        "specification": {
+            "product_type": "vélo tout terrain",
+            "category": "Vélo",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "M"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "orange"
+                    ]
+                },
+                {
+                    "name": "bicycle_frame_size",
+                    "value": [
+                        "49"
+                    ]
+                },
+                {
+                    "name": "bicycle_dimension",
+                    "value": [
+                        "26"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "78121a36-cd9f-487e-9517-b92298927bf9",
+        "gtin": "2060032815230",
+        "title": "atomic  x girl 100 cm",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1945776/k$53f65c492dd5e5e235ff3a02b866c951/550x550/image.png"
+        ],
+        "price": "8000",
+        "stock": "1",
+        "specification": {
+            "product_type": "skis",
+            "category": "Sports d'hiver",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "NO SIZE"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "blanc"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "be5b7816-1123-4349-b732-1c9901a3b13f",
+        "gtin": "2060037612537",
+        "title": "head i race pro 160",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/o1945751/k$b1333fedbb1e3f41d98b6b2b08876edb/550x550/image.png"
+        ],
+        "price": "28000",
+        "stock": "1",
+        "specification": {
+            "product_type": "skis",
+            "category": "Sports d'hiver",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "Not Found"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "jaune"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
+        "product_id": "f2bcb8c4-2f61-4679-85ef-7ac6753d2265",
+        "gtin": "2060038091539",
+        "title": "SKI FREESTYLE - CLIP 85",
+        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
+        "images": [
+            "https://contents.mediadecathlon.com/p2258350/550x550/image.png"
+        ],
+        "price": "15000",
+        "stock": "1",
+        "specification": {
+            "product_type": "skis",
+            "category": "Sports d'hiver",
+            "attributes": [
+                {
+                    "name": "SIZE",
+                    "value": [
+                        "178 CM"
+                    ]
+                },
+                {
+                    "name": "COLOR",
+                    "value": [
+                        "No Color"
+                    ]
+                }
+            ]
+        },
+        "condition": "used"
+    },
+    {
         "product_id": "b315d451-0d39-48ca-9f94-6e0f68ce56c9",
         "gtin": "2060035666990",
         "title": "Tapis de Pilates confort épaisseur 15 mm, bordeaux",
@@ -23,66 +755,6 @@
                     "name": "COLOR",
                     "value": [
                         "violet"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "75496613-68b9-4aa2-b76c-f17932a97f7c",
-        "gtin": "2060030821318",
-        "title": "Tapis de Pilates confort épaisseur 15 mm, vert clair",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2392014/550x550/image.png"
-        ],
-        "price": "3000",
-        "stock": "1",
-        "specification": {
-            "product_type": "tapis pilates",
-            "category": "Fitness",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Sans taille"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "ocre"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "cf330531-d101-4f41-bdff-4f77a88de182",
-        "gtin": "2060030809460",
-        "title": "Doudoune duvet Alpinism Homme Ochre - Gris",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2715173/550x550/image.png"
-        ],
-        "price": "10000",
-        "stock": "1",
-        "specification": {
-            "product_type": "doudoune duvet",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "L"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "marron"
                     ]
                 }
             ]
@@ -252,48 +924,6 @@
         "condition": "used"
     },
     {
-        "product_id": "1b6fba65-8672-4a6a-8ea7-93b2cef87564",
-        "gtin": "2060030809798",
-        "title": "Velo ville enfant BTWIN 500 20 pouces 6-9 ans",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1944683/k$6e7f32613a78ba81b8b2afa9c3e19497/550x550/image.png"
-        ],
-        "price": "25000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo ville",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "20\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "bleu"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "50"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "28"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "eed71348-4ed7-4b3a-a7b4-e8058790d186",
         "gtin": "2060036678053",
         "title": "Vélo enfant 16 pouces 4-6 ans, DISCOVER 900 rose",
@@ -443,42 +1073,6 @@
                     "name": "bicycle_dimension",
                     "value": [
                         "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "1f49e36a-34f4-4b02-af49-c34cf668b187",
-        "gtin": "2060030821462",
-        "title": "Robot 500",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1944141/k$8fa59dbfaefe611de3f1b9d26303c4c5/550x550/image.png"
-        ],
-        "price": "8000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo enfant",
-            "category": "Vélo enfant",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Not Found"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "orange"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "14"
                     ]
                 }
             ]
@@ -766,7 +1360,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 },
                 {
@@ -994,66 +1588,6 @@
             ]
         },
         "condition": "used"
-    },
-    {
-        "product_id": "15a19f37-376f-4e65-8ffe-977f28d5cbb3",
-        "gtin": "2060030832574",
-        "title": "Chaussure de ski femme tecnica 26-26.5",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en ÉTAT CORRECT état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit présente des traces d’usure importantes. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1941040/k$15d6ff4911155c45445c5273ba347767/550x550/image.png"
-        ],
-        "price": "3000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Not Found"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                }
-            ]
-        },
-        "condition": "damaged"
-    },
-    {
-        "product_id": "6ee17080-5b36-496c-922f-b9fc8f773b75",
-        "gtin": "2060030429163",
-        "title": "CHAUSSURE DE SKI HOMME - ATOMIC HAWX MAGNA 100 2023",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2264183/550x550/image.png"
-        ],
-        "price": "15000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "26"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "No Color"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
     },
     {
         "product_id": "7e473e68-bcb0-4701-ad3a-985f69eb751d",
@@ -1684,7 +2218,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "noir"
                     ]
                 },
                 {
@@ -1819,7 +2353,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2131458/550x550/image.png"
         ],
-        "price": "36000",
+        "price": "29000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout chemin",
@@ -1938,42 +2472,6 @@
         "condition": "used"
     },
     {
-        "product_id": "1ed600e8-9b1c-479e-9e2d-822b93032c11",
-        "gtin": "2060030431272",
-        "title": "VTT ENFANT 24\" EXPL 500 JAUNE 9-12 ANS",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2663753/550x550/image.png"
-        ],
-        "price": "25000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "24\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "ocre"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "d481951d-511f-441f-aec0-3ced24f11b0d",
         "gtin": "2060039479343",
         "title": "VÉLO TOUT CHEMIN RIVERSIDE 500 BLEU NUIT",
@@ -1981,7 +2479,7 @@
         "images": [
             "https://contents.mediadecathlon.com/o1936366/k$9707908a93d40e303517caefa8176710/550x550/image.png"
         ],
-        "price": "30000",
+        "price": "29000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout chemin",
@@ -2081,48 +2579,6 @@
                     "name": "bicycle_dimension",
                     "value": [
                         "28"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "18896998-5392-4f8d-96d3-a5b0f6d697c0",
-        "gtin": "2060030554087",
-        "title": "VTT enfant 26\" 9-12 ans, EXPL 500 kaki",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2868929/550x550/image.png"
-        ],
-        "price": "20000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "26\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "ocre"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "45"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
                     ]
                 }
             ]
@@ -2232,48 +2688,6 @@
         "condition": "used"
     },
     {
-        "product_id": "dcf5b7a6-7670-4392-a5ca-71b59c35063f",
-        "gtin": "2060035425887",
-        "title": "VTC ENFANT RIVERSIDE 900 26 POUCES 9-12 ANS",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2089450/550x550/image.png"
-        ],
-        "price": "32000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout chemin",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "26\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "bleu"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "45"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "6e7ad7e8-643c-442c-8dea-be4355776f23",
         "gtin": "2060037377412",
         "title": "Chaussures de volleyball Adulte - ASICS Gel Spike blanc",
@@ -2332,7 +2746,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "blanc"
                     ]
                 },
                 {
@@ -2746,7 +3160,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 },
                 {
@@ -2818,7 +3232,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 },
                 {
@@ -2830,48 +3244,6 @@
             ]
         },
         "condition": "used"
-    },
-    {
-        "product_id": "7a5b0391-a9a5-4891-b2d0-a279985aa5e4",
-        "gtin": "2060037121749",
-        "title": "Vtt enfant 26\" st 500 orange 9-12 ans",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1933898/k$8c4d8ee48b8fa604eb0d806e3fa09d5e/550x550/image.png"
-        ],
-        "price": "19000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "26\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "orange"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "45"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
     },
     {
         "product_id": "0f9f3375-c020-4199-934b-89dfecdff438",
@@ -3126,54 +3498,12 @@
         "condition": "used"
     },
     {
-        "product_id": "a5ee1821-aa6c-4db4-b7d8-7f2fb9966ea2",
-        "gtin": "2060037827634",
-        "title": "Vtt enfant 20\" expl 900r rouge 6-9 ans",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2663769/550x550/image.png"
-        ],
-        "price": "29000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "20\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "No Color"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "50"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "fafd52e3-8b45-4fa1-b541-0a8d92b8b35a",
         "gtin": "2060037355267",
         "title": "head era 30 taille 177",
         "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
         "images": [
-            "https://contents.mediadecathlon.com/o1933050/k$d2e39b26eac5f8632bf2761e9fe92743/550x550/image.png"
+            "https://contents.mediadecathlon.com/o1945791/k$768ad46696d0776f392ee3831d5106af/550x550/image.png"
         ],
         "price": "5000",
         "stock": "1",
@@ -3190,7 +3520,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -3220,7 +3550,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "blanc"
                     ]
                 },
                 {
@@ -3360,36 +3690,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "51efbfaa-82bf-469d-b436-f342f65328d4",
-        "gtin": "2060038073399",
-        "title": "chaussure ski de piste wedze 29/29.5",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1931289/k$e20cc902de01d585c7cef07756f3fed5/550x550/image.png"
-        ],
-        "price": "8000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Not Found"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "16ed3200-b992-4fb3-8e03-578cd0efc60f",
         "gtin": "2060035486437",
         "title": "bâton de ski LEKI 125cm",
@@ -3413,36 +3713,6 @@
                     "name": "COLOR",
                     "value": [
                         "jaune"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "812c0fed-347b-4425-bbe9-4c0e3aac508b",
-        "gtin": "2060039581152",
-        "title": "PATINS A GLACE PATINAGE ARTISTIQUE FS100",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p1728126/550x550/image.png"
-        ],
-        "price": "6000",
-        "stock": "1",
-        "specification": {
-            "product_type": "patins artistiques",
-            "category": "Other Sports",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "34"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
                     ]
                 }
             ]
@@ -3634,7 +3904,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "noir"
                     ]
                 }
             ]
@@ -3664,54 +3934,12 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "noir"
                     ]
                 }
             ]
         },
         "condition": "like_new"
-    },
-    {
-        "product_id": "8f3d9541-afc5-4fbf-b98a-23a377e19e2b",
-        "gtin": "2060031386861",
-        "title": "Vtt enfant 26\" st 500 kaki 9-12 ans",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2399783/550x550/image.png"
-        ],
-        "price": "26000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "26\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "ocre"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "45"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
     },
     {
         "product_id": "ee28ad82-e869-4cd7-9a42-0414704b43db",
@@ -3736,7 +3964,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -3804,48 +4032,6 @@
         "condition": "used"
     },
     {
-        "product_id": "1be63344-6d48-46b2-8dea-0f4fbf52a841",
-        "gtin": "2060035876542",
-        "title": "VTT ENFANT ROCKRIDER ST 500 20 POUCES 6-9 ans Jaune Fluo",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1933970/k$261e1170adf0d7e8c232e4a84caf3dbf/550x550/image.png"
-        ],
-        "price": "10000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "20\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "jaune"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "50"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "d7f4e2c3-cb42-485c-98b3-0a4064617a88",
         "gtin": "2060035315720",
         "title": "Sac de frappe Wall punch avec installation rapide",
@@ -3898,7 +4084,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 },
                 {
@@ -4188,48 +4374,6 @@
         "condition": "used"
     },
     {
-        "product_id": "6dbedd32-f54d-4ae4-b14b-8deeaae1d8ad",
-        "gtin": "2060038924356",
-        "title": "VÉLO VTT ST 100 JAUNE 27,5\"",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2208606/550x550/image.png"
-        ],
-        "price": "15000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "XS"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "jaune"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "41"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "ff6c0785-8959-463d-bcf2-ca53d4bd5f0e",
         "gtin": "2060035876504",
         "title": "Chaussures de Trail Running pour homme, Kiprun XT8 Bleu",
@@ -4420,7 +4564,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 },
                 {
@@ -4536,78 +4680,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "81b87d26-423d-49bb-a9ec-b1c19c318f63",
-        "gtin": "2060039686918",
-        "title": "luge bois Bergun",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1917817/k$9b3542c9816293db924918d683b90adf/550x550/image.png"
-        ],
-        "price": "4000",
-        "stock": "1",
-        "specification": {
-            "product_type": "raquette à neige",
-            "category": "Sports de montagne",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Not Found"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "beige"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "3f902644-fb99-44c3-bbd6-49e732744840",
-        "gtin": "2060038145409",
-        "title": "VTT ENFANT ROCKRIDER ST 120 20 POUCES 6-9 ans BLANC BLEU",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p1690024/550x550/image.png"
-        ],
-        "price": "10000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo tout terrain",
-            "category": "Vélo",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "20\""
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "blanc"
-                    ]
-                },
-                {
-                    "name": "bicycle_frame_size",
-                    "value": [
-                        "50"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "26"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "aa3fcdb9-8e0f-4d15-9443-31b755f58398",
         "gtin": "2060035921433",
         "title": "Vélo enfant 16 pouces 4-6 ans, DISCOVER 500 rose",
@@ -4702,7 +4774,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 },
                 {
@@ -4852,7 +4924,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "blanc"
                     ]
                 },
                 {
@@ -5026,7 +5098,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -5146,7 +5218,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 },
                 {
@@ -5387,42 +5459,6 @@
                     "name": "COLOR",
                     "value": [
                         "bleu"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "9a3e60e2-e38a-4ad9-862f-6a27702a6c6e",
-        "gtin": "2060038213450",
-        "title": "Vélo enfant 16 pouces 4-6 ans, DISCOVER 900 rose",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2879674/550x550/image.png"
-        ],
-        "price": "19000",
-        "stock": "1",
-        "specification": {
-            "product_type": "vélo enfant",
-            "category": "Vélo enfant",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Sans taille"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "rose"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "14"
                     ]
                 }
             ]
@@ -5773,7 +5809,7 @@
         "images": [
             "https://contents.mediadecathlon.com/p2764566/550x550/image.png"
         ],
-        "price": "260000",
+        "price": "225000",
         "stock": "1",
         "specification": {
             "product_type": "vélo tout chemin",
@@ -6268,7 +6304,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 }
             ]
@@ -6328,7 +6364,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 }
             ]
@@ -6886,7 +6922,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 },
                 {
@@ -7072,7 +7108,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -7102,7 +7138,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -7534,7 +7570,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 },
                 {
@@ -7606,36 +7642,6 @@
             ]
         },
         "condition": "damaged"
-    },
-    {
-        "product_id": "85bd5c6e-e60a-4a43-af82-ed01e6d1cde7",
-        "gtin": "2060031147905",
-        "title": "Pantalon de randonnée -18°C déperlant homme, NH100 gris",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2583096/550x550/image.png"
-        ],
-        "price": "3000",
-        "stock": "1",
-        "specification": {
-            "product_type": "pantalon",
-            "category": "Sports de montagne",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "42 (L33)"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
     },
     {
         "product_id": "ab7ccd22-4a69-48f1-b343-808b6ee0faa7",
@@ -9610,7 +9616,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 },
                 {
@@ -9748,7 +9754,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -9916,7 +9922,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 }
             ]
@@ -9946,7 +9952,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 }
             ]
@@ -10198,7 +10204,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -10642,7 +10648,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 },
                 {
@@ -11098,7 +11104,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "beige"
+                        "incolore"
                     ]
                 }
             ]
@@ -11236,37 +11242,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "ef80da87-89b7-41c4-9c11-ec3801093a25",
-        "gtin": "2060037811916",
-        "title": "radical 2019",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/o1721567/k$b60a4806ea993cca8ea325cb1e9cd1b3/550x550/image.png"
-        ],
-        "price": "11000",
-        "stock": "1",
-        "specification": {
-            "product_type": "raquette de tennis",
-            "category": "Sports de raquette",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "Not Found"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "rouge"
+                        "noir"
                     ]
                 }
             ]
@@ -11304,36 +11280,6 @@
         "condition": "like_new"
     },
     {
-        "product_id": "b0dd2466-9bf0-4d4e-9bf3-ec4dfe8a5d64",
-        "gtin": "2060031122704",
-        "title": "PANTALON DE SKI FEMME FR100 - BEIGE",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2297542/550x550/image.png"
-        ],
-        "price": "5000",
-        "stock": "1",
-        "specification": {
-            "product_type": "pantalon de ski",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "38"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "beige"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
         "product_id": "6f551f96-959b-4540-b0a2-6c7e2157b455",
         "gtin": "2060037201649",
         "title": "Chaussures de randonnée chaudes et imperméables femme,",
@@ -11363,36 +11309,6 @@
                     "name": "bicycle_dimension",
                     "value": [
                         "0"
-                    ]
-                }
-            ]
-        },
-        "condition": "used"
-    },
-    {
-        "product_id": "a560cd33-9610-492b-8b48-334a3244697c",
-        "gtin": "2060036989654",
-        "title": "Chaussures de ski de fond skating - XC S boots skate 500 -",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p1885106/550x550/image.png"
-        ],
-        "price": "10000",
-        "stock": "1",
-        "specification": {
-            "product_type": "chaussures de ski",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "45"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "orange"
                     ]
                 }
             ]
@@ -11482,7 +11398,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 },
                 {
@@ -11650,7 +11566,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -12178,7 +12094,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "blanc"
                     ]
                 }
             ]
@@ -12418,7 +12334,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "blanc"
                     ]
                 }
             ]
@@ -12586,7 +12502,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "noir"
                     ]
                 }
             ]
@@ -12822,42 +12738,6 @@
         "condition": "damaged"
     },
     {
-        "product_id": "2d124346-ef9e-4abc-978b-ec65f3466d0b",
-        "gtin": "2060035492667",
-        "title": "Gants de ski 100 gris perle et noir adulte",
-        "description": "Ce produit est disponible à la vente dans notre magasin DECATHLON Bussigny. \nLe produit est en TRÈS BON état: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles. Prix non négociable.\nLe retrait doit être effectué dans les 5 jours suivant l'achat dans notre magasin durant nos horaires d'ouverture (Lundi au Jeudi 09:00 - 19:00, Vendredi 09:00 - 20:00, Samedi 08:30 - 18:00, Dimanche fermé). \n\nPourquoi acheter ce produit Seconde Vie avec Decathlon?\n- Chaque article d’occasion est nettoyé, réparé si besoin, puis testé et certifié par un technicien agréé\n- Garantie de 2 ans\n- Echange 365 jours possible pour les membres Decathlon\n- Conseils d'un expert sur place si besoin",
-        "images": [
-            "https://contents.mediadecathlon.com/p2264474/550x550/image.png"
-        ],
-        "price": "2000",
-        "stock": "1",
-        "specification": {
-            "product_type": "gants",
-            "category": "Sports d'hiver",
-            "attributes": [
-                {
-                    "name": "SIZE",
-                    "value": [
-                        "L"
-                    ]
-                },
-                {
-                    "name": "COLOR",
-                    "value": [
-                        "gris"
-                    ]
-                },
-                {
-                    "name": "bicycle_dimension",
-                    "value": [
-                        "0"
-                    ]
-                }
-            ]
-        },
-        "condition": "like_new"
-    },
-    {
         "product_id": "0717a147-d972-469e-ab7b-ccb3ca806c48",
         "gtin": "2060035697833",
         "title": "Bâtons de ski alpin  - boost 100 safety - noir",
@@ -12880,7 +12760,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -13000,7 +12880,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "rouge"
+                        "noir"
                     ]
                 }
             ]
@@ -13060,7 +12940,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 }
             ]
@@ -13216,7 +13096,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "blanc"
                     ]
                 },
                 {
@@ -13252,7 +13132,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "gris"
+                        "noir"
                     ]
                 }
             ]
@@ -13474,7 +13354,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "noir"
+                        "blanc"
                     ]
                 }
             ]
@@ -13852,7 +13732,7 @@
                 {
                     "name": "COLOR",
                     "value": [
-                        "orange"
+                        "blanc"
                     ]
                 }
             ]
